@@ -1,4 +1,4 @@
 # colleage-demo
 This is my first Git Repository.
 <br>
-Author-Deepak Prajapati
+Author-Deepak Prajapati (Project code)
